@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Collaboration Platform",
+  "description": "A production-ready, Slack-like real-time collaboration platform featuring channels, DMs, task management, and a built-in Gemini AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
